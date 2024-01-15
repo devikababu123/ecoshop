@@ -1,0 +1,226 @@
+.e1{
+    background: #658C4A;
+    text-align: center;
+    height: 45px;
+    color: white;
+}
+.e2{
+    background: var(--White, #FFF);
+    border-radius: 40px;
+    border: 1px solid var(--Grey-200, #CCC);
+}
+.srh{
+    flex: 0.5;
+}
+.e3{
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
+.e4 h2{
+    color: var(--Grey-600, #333);
+text-align: center;
+
+/* Heading 1 */
+font-family: Libre Baskerville;
+font-size: 56px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.e5{
+    color: var(--Grey-500, #666);
+text-align: center;
+
+/* Body Large Regular */
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 28px; /* 140% */
+}
+.e4{
+    display: flex;
+width: 720px;
+padding: 80px 40px;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+gap: 24px;
+flex-shrink: 0;
+}
+.b1{
+    border-radius: 40px;
+    background: var(--Primary, #658C4A);
+   
+}
+.e5{
+    width: 720px;
+    height: 480px;
+    /* flex-shrink: 0; */
+}
+.section3{
+    display: flex;
+    justify-content: space-around;
+}
+.s1{
+    color: var(--Primary, #658C4A);
+
+/* Heading 3 */
+font-family: Libre Baskerville;
+font-size: 40px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.b2{
+    display: inline-flex;
+padding: 3px 10px;
+justify-content: center;
+align-items: center;
+border-radius: 40px;
+background: var(--Grey-600, #333);
+margin-top: -70px;
+}
+
+.b3{
+    background: #658C4A;
+    display: flex;
+    width: 1440px;
+    padding: 80px 60px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+}
+.b3{
+    color: var(--Grey-100, #E6E6E6);
+text-align: center;
+
+/* Body Large Regular */
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 28px; /* 140% */
+}
+.b4{
+    width: 312px;
+    height: 312px;
+    flex-shrink: 0;
+   
+}
+.h{
+    display: flex;
+    justify-content: space-around;
+}
+.c1{
+    color: var(--White, #FFF);
+
+/* Body Large Semibold */
+font-family: Inter;
+font-size: 50px;
+font-style: normal;
+font-weight: 550;
+line-height: 25px; /* 140% */
+}
+.c2{
+    color: var(--White, #FFF);
+
+    /* Body Large Semibold */
+    font-family: Inter;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 550;
+    line-height: 28px; /* 140% */
+}
+.c3{
+    color: var(--White, #FFF);
+
+    /* Body Large Semibold */
+    font-family: Inter;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 550;
+    line-height: 28px; /* 140% */
+}
+.c4{
+    color: var(--White, #FFF);
+
+    /* Body Large Semibold */
+    font-family: Inter;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 550;
+    line-height: 28px; /* 140% */
+}
+.session4{
+    background:white;
+    display: flex;
+width: 1398px;
+flex-direction: column;
+/* padding: 50px 40px; */
+justify-content: center;
+align-items: center;
+gap: 40px;
+}
+.sub{
+    color: var(--Grey-500, #666);
+
+    /* Body Normal Regular */
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; /* 150% */
+}
+.f1{
+  
+    display: flex;
+    width: 1440px;
+    padding: 80px 60px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+        background: var(--White, #FFF);
+    
+}
+ .sofa1{
+    color: var(--Grey-600, #333);
+
+    /* Body Large Semibold */
+    font-family: Inter;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 550;
+    line-height: 28px; /* 140% */
+ }  
+
+.ert{
+    background: rgba(101, 140, 74, 0.90);
+    width: 1440px;
+height: 100px;
+position: absolute;
+color: var(--White, #FFF);
+text-align: center;
+
+
+}
+.ert{
+    /* Heading 4 */
+font-family: Libre Baskerville;
+font-size: 32px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+align-self: stretch;
+}
+.footer1{
+    margin-top: 50px;
+    width: 1440px;
+    height: 810px;
+    flex-shrink: 0;
+
+}
+.fo1{
+    background-color: wheat;
+}
